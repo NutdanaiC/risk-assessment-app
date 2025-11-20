@@ -1,0 +1,5 @@
+{
+  "name": "Sentinel AI - Risk Assessment",
+  "description": "Advanced AI-powered visual risk assessment tool. Upload images of environments to detect hazards, analyze safety compliance, and generate comprehensive mitigation reports.",
+  "requestFramePermissions": []
+}
